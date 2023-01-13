@@ -7,3 +7,4 @@ hello
 bye
 
 new-feature test
+merge error test
