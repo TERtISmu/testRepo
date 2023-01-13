@@ -5,3 +5,5 @@ notes
 hello
 
 bye
+
+merge error test
